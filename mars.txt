@@ -1,0 +1,3 @@
+$ git remote add origin git@github.com:V1v1Ann3/planets.git
+$ git remote -v
+
